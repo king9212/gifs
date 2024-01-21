@@ -252,6 +252,11 @@ h6 {
 	font-size: 16px
 }
 
+p {
+	font-size: 16px;
+	color: #ffffff;	
+}
+
 .w3-serif {
 	font-family: serif
 }
